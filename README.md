@@ -1,1 +1,1 @@
-# tilepy_gw_mmoda
+# tilepy-gw-mmoda

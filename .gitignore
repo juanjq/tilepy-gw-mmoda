@@ -3,4 +3,3 @@
 *.out
 **__pycache__**
 **.ipynb_checkpoints**
-*dl3*.fits
